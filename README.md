@@ -2,7 +2,7 @@
 This is a collection of repo's/projects that I have had a hand in creating 
 
 # Guardian Technologies 
-[Guardian Technologies](https://github.com/Guardian-Technologies)
+[Guardian Technologies](https://github.com/Guardian-Techonologies)
 ### Guardian Technologies was set up to provide blue team capabilities for an AWS infrastructure. Our main integration was Splunk Enterprise to provide a total SIEM solution. I configured a forwarder with specific logs to send login and network activity on both Windows and Linux Systems. I then created a Dashboard To display the results in panels that had drill-downs to navigate specific searches for login activity and potential unauthorized access. We also configured other avenues for log capabilities such as Cloudwatch/Cloudtrail, GuardDuty, and Lambda to send automatic alerts through SMTP for failed SSH attempts. 
 
 # Order of the Cloud Keepers
